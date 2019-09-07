@@ -1,0 +1,16 @@
+{
+  "name": "algorithm-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "node ./benchmark",
+    "test": "ava tests/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^2.3.0",
+    "benchmark": "^2.1.4"
+  }
+}
